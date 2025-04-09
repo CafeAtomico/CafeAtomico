@@ -18,9 +18,11 @@
 
 ---
 
-### 📫 Contato
+### 🌐 Social
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seulinkedin/)
+
+[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="50"/>](https://www.linkedin.com/in/lenon-henrique-campos-155113116/)
+
 
 ### ✨ Linguagens Utilizada
 
