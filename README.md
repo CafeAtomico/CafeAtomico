@@ -1,16 +1,29 @@
-## Hi there 👋
+### 👋 Olá, eu sou Lenon Campos!
 
-<!--
-**CafeAtomico/CafeAtomico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 QA Engineer | Especialista em Cypress, API, Teste de Software,  
+🔧 Integração CI/CD, Familiaridade com a Metodologia Agile, Javascript, SQL  
+📚 Estudando para certificações como CTFL/ISTQB
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Tecnologias & Ferramentas
+
+- **Automação:** Cypress, Playwright, Appium.
+- **Back-End Automação:** Postman
+- **Banco de Dados:** PostgreSQL
+- **CI/CD:** GitHub, GitHub Actions
+- **Planejamento e Reportes:** Jira, Trello, Google Sheets, ServiceNow, DevOps
+- **Linguagens:** JavaScript
+- **Metodologia:** Scrum
+
+---
+
+### 📊 Estatísticas & Linguagens
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuario&layout=compact)
+
+---
+
+### 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seulinkedin/)
