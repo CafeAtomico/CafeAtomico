@@ -22,9 +22,3 @@
 
 
 [<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="50"/>](https://www.linkedin.com/in/lenon-henrique-campos-155113116/)
-
-
-### ✨ Linguagens Utilizada
-
-
-(https://github-readme-stats.vercel.app/api/top-langs/?username=ElizabethGomes-QAEngineer&layout=compact&theme=radical&cache_seconds=86400)
